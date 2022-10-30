@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mtenkorang
+- 👋 Hi, I’m Moses
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript, Tailwind CSS and ReactJS
+- 🌱 I’m currently learning JavaScript, Python, Tailwind CSS and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
